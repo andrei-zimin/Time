@@ -1,0 +1,32 @@
+C:\Users\cherp\source\repos\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\cherp\source\repos\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\cherp\source\repos\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.Form1.resources
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\cherp\source\repos\LAB2\LAB2\bin\Debug\en\LAB2.resources.dll
+C:\Users\cherp\source\repos\LAB2\LAB2\bin\Debug\ru\LAB2.resources.dll
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.Form1.en.resources
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.Form1.ru.resources
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\en\LAB2.resources.dll
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\ru\LAB2.resources.dll
+C:\Users\cherp\source\repos\LAB2\LAB2\obj\Debug\LAB2.csprojAssemblyReference.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\bin\Debug\LAB2.exe.config
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\bin\Debug\LAB2.exe
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\bin\Debug\LAB2.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\bin\Debug\en\LAB2.resources.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\bin\Debug\ru\LAB2.resources.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.csprojAssemblyReference.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.Form1.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.Form1.en.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.Form1.ru.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\en\LAB2.resources.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\ru\LAB2.resources.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.exe
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\LAB2\LAB2\obj\Debug\LAB2.pdb
